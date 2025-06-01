@@ -9,7 +9,7 @@ heroImage: "/blog-placeholder-5.jpg"
 
 ## 先使用软件:
 
-下载地址:https://bobo.us.kg/%E6%9E%81%E5%9F%9F%E7%A0%B4%E8%A7%A3%E8%BD%BB%E9%87%8F%E7%89%88.zip
+下载地址:[极域破解轻量版](https://bobo.us.kg/%E6%9E%81%E5%9F%9F%E7%A0%B4%E8%A7%A3%E8%BD%BB%E9%87%8F%E7%89%88.zip)
 
 注意：一定要看里面的必看
 

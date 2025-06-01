@@ -7,4 +7,4 @@ heroImage: "/blog-placeholder-5.jpg"
 
 # 下载地址:
 
-极域破解轻量版:极域破解轻量版.zip
+极域破解轻量版:[极域破解轻量版.zip](https://bobo.us.kg/极域破解轻量版.zip)

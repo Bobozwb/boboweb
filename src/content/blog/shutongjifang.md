@@ -37,8 +37,8 @@ itch.io:<a href="https://itch.io/games" target="_blank" title="点我跳转">点
 
 PS:每个聊天室只能进26个人，扩容方法看聊天室的文字(免费)。
 
-聊天室1:<a href="https://bobozwb.us.kg/jifang" target="_blank" title="点我跳转">点我跳转</a>
+聊天室1:<a href="https://bobochat.us.kg/jifang" target="_blank" title="点我跳转">点我跳转</a>
 
-聊天室2:<a href="https://bobozwb.us.kg/jifang2" target="_blank" title="点我跳转">点我跳转</a>
+聊天室2:<a href="https://bobochat.us.kg/jifang2" target="_blank" title="点我跳转">点我跳转</a>
 
-聊天室3:<a href="https://bobozwb.us.kg/jifang3" target="_blank" title="点我跳转">点我跳转</a>
+聊天室3:<a href="https://bobochat.us.kg/jifang3" target="_blank" title="点我跳转">点我跳转</a>

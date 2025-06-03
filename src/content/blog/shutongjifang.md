@@ -21,7 +21,7 @@ heroImage: "/blog-placeholder-5.jpg"
 
 我收集的离线游戏:<a href="https://www.123684.com/s/reYejv-5ANed" target="_blank" title="点我下载">点我下载(123网盘 需登录下载 建议拷贝到U盘或注册一个123网盘用户下载)</a>   提取码:game 内置:血皮树、护送学生过马路、米塔、番茄先生和柠檬小姐     后续可能会添加更多......
 
-米塔:<a href="https://www.123684.com/s/reYejv-5ANed" target="_blank" title="点我下载">点我下载(123网盘 需登录下载 建议拷贝到U盘或注册一个123网盘用户下载)</a>
+米塔:<a href="https://www.123684.com/s/reYejv-tQNed" target="_blank" title="点我下载">点我下载(123网盘 需登录下载 建议拷贝到U盘或注册一个123网盘用户下载)</a>
 提取码:game
 
 mc一件套:<a href="https://wwtm.lanzouq.com/iMt7t2xvitqf" target="_blank" title="点我下载">点我下载</a>

@@ -2,7 +2,7 @@
 title: "极域破解"
 description: "这是用来破解极域的"
 pubDate: "Jun 01 2555"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "/jiyu.jpg"
 ---
 
 # 速通机房教程:

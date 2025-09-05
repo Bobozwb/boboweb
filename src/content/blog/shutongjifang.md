@@ -27,7 +27,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{36fc9e60-c465-11cf-80
 
 ## 先使用软件:
 
-下载地址:<a href="https://q1060.webgetstore.com/2025/09/06/22ec3412e1371cdd1f3cb23f0b9186f5.zip?sg=f66e5f2215289d3ddb6ef52395d9cd76&e=68bb19ea&fileName=%E6%9E%81%E5%9F%9F%E7%A0%B4%E8%A7%A3%E8%BD%BB%E9%87%8F%E7%89%88.zip&fi=252847476" title="点我下载">极域破解轻量版</a>
+下载地址:<a href="https://wwtm.lanzouq.com/i8trZ35idbzg" title="点我下载">极域破解轻量版</a>
 
 注意：一定要看里面的1A1使用必看!!!1A1
 

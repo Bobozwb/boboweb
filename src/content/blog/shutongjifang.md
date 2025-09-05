@@ -7,6 +7,24 @@ heroImage: "/blog-placeholder-5.jpg"
 
 # 速通机房教程:
 
+##1A必读!!!1A:
+持续更新
+如果你发现了什么可以告诉我
+
+## U盘解禁(仅适用于我的机房):
+win+r打开运行框
+输入:
+```
+regedit
+```
+回车
+在上方地址栏输入
+```
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{36fc9e60-c465-11cf-8056-444553540000}
+```
+然后删除UpperFilters项
+你就可以快乐的使用U盘啦😉!
+
 ## 先使用软件:
 
 下载地址:<a href="https://bobo.us.kg/%E6%9E%81%E5%9F%9F%E7%A0%B4%E8%A7%A3%E8%BD%BB%E9%87%8F%E7%89%88.zip" title="点我下载">极域破解轻量版</a>

@@ -17,7 +17,7 @@ heroImage: "/jiyu.jpg"
 
 ### 提示：下面有U盘解禁方法
 
-<a href="https://bobo.us.kg/blog/shutongjifang/#U%E7%9B%98%E8%A7%A3%E7%A6%81(%E4%BB%85%E9%80%82%E7%94%A8%E4%BA%8E%E6%88%91%E7%9A%84%E6%9C%BA%E6%88%BF):" target="_blank" title="U盘解禁">U盘解禁</a>
+<a href="https://bobo.us.kg/blog/shutongjifang#U%E7%9B%98%E8%A7%A3%E7%A6%81(%E4%BB%85%E9%80%82%E7%94%A8%E4%BA%8E%E6%88%91%E7%9A%84%E6%9C%BA%E6%88%BF):" title="U盘解禁">U盘解禁</a>
 
 首先win+r打开运行框
 

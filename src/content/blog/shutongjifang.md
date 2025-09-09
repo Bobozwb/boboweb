@@ -18,7 +18,7 @@ heroImage: "/jiyu.jpg"
 ### 提示：下面有U盘解禁方法
 
 <ul>
-  <li><a href="## U盘解禁(仅适用于我的机房):">Section 1</a></li>
+  <li><a href="#U盘解禁(仅适用于我的机房):">U盘解禁</a></li>
 </ul>
 
 首先win+r打开运行框

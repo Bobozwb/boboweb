@@ -83,7 +83,7 @@ PS:如果内容失效请发邮件 我会及时更改
 
 ## 先使用软件:
 
-下载地址:<a href="https://wwtm.lanzouq.com/i8trZ35idbzg" title="点我下载">极域破解轻量版</a>
+下载地址:<a href="https://wwtm.lanzouq.com/i8trZ35idbzg" target="_blank" title="点我下载">极域破解轻量版</a>
 
 #### 注意：一定要看里面的1A1使用必看!!!1A1
 

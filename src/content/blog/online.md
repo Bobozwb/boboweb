@@ -9,4 +9,4 @@ heroImage: "/blog-placeholder-2.jpg"
 
 泰拉瑞亚下载地址:
 
-https://www.123865.com/s/reYejv-4PRed
+<a href="https://www.123865.com/s/reYejv-4PRed" target="_blank" title="点我下载">泰拉瑞亚下载</a>

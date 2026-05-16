@@ -1,7 +1,7 @@
 ---
 title: "极域破解"
 description: "这是用来破解极域的"
-pubDate: "Jun 19 2000"
+pubDate: "2000年6月19日"
 heroImage: "/jiyu.jpg"
 ---
 
